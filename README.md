@@ -30,7 +30,8 @@ The main goals of this project are:
 - Application: OpenCart
 - Type: Web application (UI)
 - Environment: Local instance (XAMPP)
-- Browsers: Chrome (primary), others optional depending on setup
+- OS: Windows 11
+- Browsers: Chrome, Firefox, Edge
 
 ---
 
