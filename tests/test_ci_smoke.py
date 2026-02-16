@@ -3,6 +3,8 @@ from urllib import request
 import pytest
 from utils.soft_assert import SoftAssert
 
+
+@pytest.mark.ui
 @pytest.mark.ci
 @pytest.mark.smoke
 def test_soft_assert_basic(driver):
