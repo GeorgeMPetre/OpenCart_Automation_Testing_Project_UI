@@ -242,7 +242,7 @@ class TestRegistration:
         [
             ("123", False),
             ("1234", True),
-            ("a" * 40, True),
+            ("a" * 20, True),
             ("a" * 21, False),
         ],
     )

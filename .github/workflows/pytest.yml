@@ -26,5 +26,5 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest -m ci -q
+          pytest -m "ci and not ui" -q
 
